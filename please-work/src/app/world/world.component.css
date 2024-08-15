@@ -1,0 +1,13 @@
+.main{
+    display: flex;
+}
+.left{
+    width: 75%;
+    height: 70%;
+    float: left;
+}
+.right {
+    width: 25%;
+    height: 30%;
+    border: solid 1px black;
+}
