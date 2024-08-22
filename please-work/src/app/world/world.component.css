@@ -3,11 +3,16 @@
 }
 .left{
     width: 75%;
-    height: 70%;
     float: left;
 }
 .right {
     width: 25%;
-    height: 30%;
     border: solid 1px black;
+}
+.final{
+    padding: 20px;
+    padding-left: 0px;
+    width: 25%;
+    background: lightgray;
+    border-radius: 30px;
 }
